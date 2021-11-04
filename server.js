@@ -1,5 +1,5 @@
 
-// Setup empty JS object to act as endpoint for all routes
+// Setup empty JS object to act as endpoint for all routes.
 projectData = {};
 
 // Require Express & dependencies to run server and routes
